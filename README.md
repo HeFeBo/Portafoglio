@@ -12,5 +12,5 @@ Benvenuti! Qui troverete una selezione dei miei progetti più rilevanti per ruol
 ## 📫 Contatti
 
 - Email: hefebo82@gmail.com
-- LinkedIn: [tu-linkedin]
+- LinkedIn: [linkedin.com/in/hefebo](www.linkedin.com/in/hefebo)
 - GitHub: [github.com/HeFeBo](https://github.com/HeFeBo)
