@@ -1,16 +1,20 @@
-# Portafolio tecnico – Hector Bohorquez Chavez
-
-Benvenuti! Qui troverete una selezione dei miei progetti più rilevanti per ruoli backend e full-stack in Java.
-
-## 🧩 Progetti selezionati
-
-- **GestionPedidos-v2**  
-  Applicazione backend sviluppata con **Spring Boot 3**, **Java 21**, **Spring Data JPA** e **Hibernate** per la persistenza.  
-  Include **validazioni avanzate** con `spring-boot-starter-validation`, gestione RESTful con **Spring Web**, e database in-memory **H2** per test e sviluppo.  
-  🔗 [github.com/HeFeBo/PedidosDeProductos](https://github.com/HeFeBo/PedidosDeProductos)
-
+# Portfolio Tecnico — Hector Bohorquez Chavez
+ 
+Sviluppatore Backend specializzato in **Java** e **Spring Boot**, alla ricerca di opportunità come **Backend Developer Junior** in Italia.
+ 
+---
+ 
+## 🧩 Progetti
+ 
+### 📦 Gestione Ordini
+API REST per la gestione di clienti, prodotti e ordini con metriche di vendita.  
+Costruita con **Java 21**, **Spring Boot 3**, **Spring Security**, **Spring Data JPA** e **MySQL**.  
+🔗 [Vai al repository](https://github.com/HeFeBo/GestioneOrdini)
+ 
+---
+ 
 ## 📫 Contatti
-
-- Email: hefebo82@gmail.com
-- LinkedIn: [linkedin.com/in/hefebo](www.linkedin.com/in/hefebo)
-- GitHub: [github.com/HeFeBo](https://github.com/HeFeBo)
+ 
+📧 hefebo82@gmail.com  
+💼 [linkedin.com/in/hefebo](https://www.linkedin.com/in/hefebo)  
+🐙 [github.com/HeFeBo](https://github.com/HeFeBo)
